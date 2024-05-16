@@ -1,0 +1,16 @@
+.box {
+    width: 98px;
+    height: 98px;
+    border: 1px solid black;
+    color: #333; /* Text color */
+    font-size: 60px; /* Text size */
+    text-align: center; /* Align text in the center */
+    line-height: 100px; /* Vertically center text in the box */
+}
+
+#visualBoard {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+}
+
